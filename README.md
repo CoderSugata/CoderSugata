@@ -28,7 +28,7 @@
 
 * 💬 I enjoy simplifying data and explaining concepts clearly — feel free to connect!
 
-* 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) or follow my learning updates on [Instagram](https://www.instagram.com/sugata_12/)
+* 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/sugatamondal/) or follow my learning updates on [Instagram](https://www.instagram.com/sugata_12/)
 
 
 ## 🛠️ Tech Stack & Tools
