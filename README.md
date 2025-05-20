@@ -55,6 +55,7 @@
 ### 🔗 Useful Links
 - 📂 [PythonAssignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
   
+> *"Data is the new oil, and I’m here to fuel up!"* 🚗💨
 
 ---
 
