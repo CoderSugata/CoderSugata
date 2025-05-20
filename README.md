@@ -13,19 +13,6 @@
   </a>
 </p>
 
-
-
-## 🚀 About Me
-Absolutely! Here's a **refreshed, more engaging "About Me" section** that better showcases your personality and goals as an aspiring data analyst. It's concise, confident, and tailored to a GitHub audience:
-
----
-
-### 🚀 About Me
-
-Perfect! Here's a customized **"About Me"** section that includes your **Python learning journey** — from basics to OOP — while keeping it structured, beginner-friendly, and professional:
-
----
-
 ### 🚀 About Me
 
 * 🐍 I'm currently focused on learning **Python for Data Analytics**, building a strong foundation in:
