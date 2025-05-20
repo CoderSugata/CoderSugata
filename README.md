@@ -16,12 +16,33 @@
 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **PythonAssignments** repository: Jupyter-driven mini-projects  
-- 🌱 I’m learning **Power BI**, **Advanced SQL**, and **Data Storytelling**  
-- 💬 Ask me about data cleaning, visualization, or creating dashboards  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sugatamondal/)  
+Absolutely! Here's a **refreshed, more engaging "About Me" section** that better showcases your personality and goals as an aspiring data analyst. It's concise, confident, and tailored to a GitHub audience:
 
 ---
+
+### 🚀 About Me
+
+Perfect! Here's a customized **"About Me"** section that includes your **Python learning journey** — from basics to OOP — while keeping it structured, beginner-friendly, and professional:
+
+---
+
+### 🚀 About Me
+
+* 🐍 I'm currently focused on learning **Python for Data Analytics**, building a strong foundation in:
+
+  * ✅ Python Basics (variables, loops, conditionals)
+  * 🧱 Data Structures (lists, dictionaries, sets, tuples)
+  * 🛠️ Functions & Modules (writing clean and reusable code)
+  * 👨‍🏫 Object-Oriented Programming (classes, objects, inheritance)
+
+* 📊 I'm also learning tools like **Power BI** and **SQL** to bring data to life through analysis and visualization
+
+* 📚 My GitHub is where I track my growth through hands-on practice and mini-projects
+
+* 💬 I enjoy simplifying data and explaining concepts clearly — feel free to connect!
+
+* 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) or follow my learning updates on [Instagram](https://www.instagram.com/sugata_12/)
+
 
 ## 🛠️ Tech Stack & Tools
 <p>
