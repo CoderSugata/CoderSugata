@@ -50,14 +50,14 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&layout=compact&theme=tokyonight"/>
 </p>
 
----
+
 
 ### 🔗 Useful Links
 - 📂 [PythonAssignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
-  
-> *"Data is the new oil, and I’m here to fuel up!"* 🚗💨
 
 ---
+
+> *"Data is the new oil, and I’m here to fuel up!"* 🚗💨
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=blue" alt="Profile views"/>
