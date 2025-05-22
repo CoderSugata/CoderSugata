@@ -36,8 +36,8 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="24"/>
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="24"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="24"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="24"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="24"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="24"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
