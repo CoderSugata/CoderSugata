@@ -63,7 +63,7 @@ Here’s a list of my core skills:
 
 ### 🔗 Useful Links
 - 📂 [PythonAssignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
-- 📂 [DSAWithJava](https://github.com/CoderSugata/PythonAssignments) –Find All my DSA Programs Here
+- 📂 [DSAWithJava](https://github.com/CoderSugata/DSAwithJava) –Find All my DSA Programs Here
 
 ---
 
