@@ -59,7 +59,7 @@ Here’s a list of my core skills:
 </p>
 
 ## 🔥 **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=MeeMaheshwari&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=coderSugata&theme=radical)
 
 ### 🔗 Useful Links
 - 📂 [PythonAssignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
