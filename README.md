@@ -58,10 +58,12 @@ Here’s a list of my core skills:
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&layout=compact&theme=tokyonight"/>
 </p>
 
-
+## 🔥 **GitHub Streak**
+![GitHub Streak](https://streak-stats.demolab.com?user=MeeMaheshwari&theme=radical)
 
 ### 🔗 Useful Links
 - 📂 [PythonAssignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
+- 📂 [DSAWithJava](https://github.com/CoderSugata/PythonAssignments) –Find All my DSA Programs Here
 
 ---
 
