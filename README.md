@@ -1,14 +1,12 @@
-<!-- 👉 replace “CoderSugata” and links with your own -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+Github;🔗+Connect+and+Grow+Together!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hello Coders 👋,I'm S M!</h1>
-<h3 align="center">Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | ✍️ Storyteller</h3>
+<h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
 
 <p align="center">
-  <!-- LinkedIn / Twitter / Website icons -->
+
   <a href="https://www.linkedin.com/in/sugatamondal/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -17,20 +15,32 @@
   </a>
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-* 🐍 I'm currently focused on learning **Python for Data Analytics**, building a strong foundation in:
+* 👋 I'm an **Aspiring Data Analyst** with a growing skill set in **Python**, **SQL**, **Power BI**, and **Machine Learning**.
 
-  * ✅ Python Basics (variables, loops, conditionals)
-  * 🧱 Data Structures (lists, dictionaries, sets, tuples)
-  * 🛠️ Functions & Modules (writing clean and reusable code)
-  * 👨‍🏫 Object-Oriented Programming (classes, objects, inheritance)
+* 🔍 Recently completed:
 
-* 📊 I'm also learning tools like **Power BI** and **SQL** to bring data to life through analysis and visualization
+  * ✅ **Python for Data Analytics** (variables, loops, functions, OOP)
+  * 📊 **Statistics & Probability** (descriptive stats, probability theory, distributions)
 
-* 📚 My GitHub is where I track my growth through hands-on practice and mini-projects
+* 🤖 Currently learning **Machine Learning**:
 
-* 💬 I enjoy simplifying data and explaining concepts clearly — feel free to connect!
+  * Supervised models: Linear/Logistic Regression, Decision Trees, KNN
+  * Unsupervised learning: Clustering, PCA
+  * Using libraries like **scikit-learn**, **pandas**, **matplotlib**, and **seaborn**
+
+* 🧠 I'm passionate about turning data into insights through storytelling and visualization.
+
+* 🛠 Tools I use:
+
+  * 💻 Python, Jupyter Notebook, Git & GitHub
+  * 🧮 SQL for querying and joining datasets
+  * 📊 Power BI for interactive dashboards and reports
+
+* 🗂 I’m building hands-on projects to solidify concepts — feel free to explore my repos!
+
+* 💬 I love simplifying complex ideas — if you're learning too, let’s connect and grow together!
 
 * 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/sugatamondal/) or follow my learning updates on [Instagram](https://www.instagram.com/sugata_12/)
 
