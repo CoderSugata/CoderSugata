@@ -77,11 +77,13 @@ Here’s a list of my core skills:
 ![GitHub Streak](https://streak-stats.demolab.com?user=coderSugata&theme=radical)
 
 ### 🔗 Useful Links
-- 📂 [PythonAssignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
-- 📂 [DSAWithJava](https://github.com/CoderSugata/DSAwithJava) –Find All my DSA Programs Here
+- 📂 [Python Assignments](https://github.com/CoderSugata/PythonAssignments) –Find All my Python Assignments Here
+- 📂 [Statistics Assignments](https://github.com/CoderSugata/StatisticsAssignments) –Find All my Statistics Assignments Here
+- 📂 [Machine Learning Assignments](https://github.com/CoderSugata/MachineLearningAssignments) –Find All my Machine Learning Assignments Here
+- 📂 [DSAWithJava](https://github.com/CoderSugata/DSAwithJava) –Find All My DSA Programs Here (Don't Open This, it's Personal 😁)
 
 ---
 
-> *"Data is the new oil, and I’m here to fuel up!"* 🚗💨
+> *"I like to help people, but I'm not a People-pleaser"* - S.M 🧿
 
 
