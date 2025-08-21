@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+Github;🔗+Connect+and+Grow+Together!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=blue" alt="Profile views"/>
+</p>
+
 <h1 align="center">Hello Coders 👋,I'm S M!</h1>
 <h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
 
@@ -80,6 +84,4 @@ Here’s a list of my core skills:
 
 > *"Data is the new oil, and I’m here to fuel up!"* 🚗💨
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=blue" alt="Profile views"/>
-</p>
+
