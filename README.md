@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=00ff00" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=ff0000" alt="Profile views"/>
 </p>
 
 <h1 align="center">Hey Coders 👋, I'm S M!</h1>
