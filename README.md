@@ -5,11 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=ff0000" alt="Profile views"/>
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=00ff00" alt="Profile views"/>
   <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=0000ff" alt="Profile views"/>
 </p>
-
 
 <h1 align="center">Hey Coders 👋, I'm S M!</h1>
 <h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
