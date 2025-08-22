@@ -5,13 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👁️%20Profile%20Views-12345-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00ff00&cacheSeconds=1" alt="profile views"/>
-  <img src="https://img.shields.io/badge/🌈%20RGB%20Effect-Activated-0000ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ff00ff&cacheSeconds=1" alt="rgb"/>
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=ff0000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=00ff00" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=0000ff" alt="Profile views"/>
 </p>
-
-
-
-
 
 
 <h1 align="center">Hey Coders 👋, I'm S M!</h1>
