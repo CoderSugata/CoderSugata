@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&style=for-the-badge&color=0000ff" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=0000ff" alt="Profile views"/>
 </p>
 
 <h1 align="center">Hey Coders 👋, I'm S M!</h1>
