@@ -11,14 +11,6 @@
 <h1 align="center">Hey Coders 👋, I'm S M!</h1>
 <h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sugatamondal/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sugata_12/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 ## 🚀 About Me  
 
@@ -56,4 +48,4 @@
 - 📂 [Machine Learning Assignments](https://github.com/CoderSugata/MachineLearningAssignments)  
 - 📂 [DSA With Java](https://github.com/CoderSugata/DSAwithJava) (_Personal repo_ 😁)  
 
-> _"I like to help people, but I'm not a people-pleaser."_ – **S.M** 🧿  
+> _"I like to help people, but I'm not a people-pleaser."_ 
