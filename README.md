@@ -9,8 +9,9 @@
 </p>
 
 <h1 align="center">Hey Coders 👋</h1>
-<h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
-
+<h3 align="center">
+📈 Aspiring Data Analyst | 🐍 Python | 📊 Excel  | 📊 Power BI | 🔍 SQL | 📉 Tableau | 🧠 Machine Learning
+</h3>
 
 ## 🚀 About Me  
 
