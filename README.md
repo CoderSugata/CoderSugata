@@ -44,12 +44,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Analytics  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CoderSugata&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CoderSugata&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CoderSugata&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>  
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CoderSugata&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔥 GitHub Streak  
 <p align="center">
@@ -63,4 +65,15 @@
 - 📂 [Machine Learning Assignments](https://github.com/CoderSugata/MachineLearningAssignments)  
 - 📂 [DSA With Java](https://github.com/CoderSugata/DSAwithJava) (_Personal repo_ 😁)  
 
-> _"I like to help people, but I'm not a people-pleaser."_ 
+> _"I like to help people, but I'm not a people-pleaser."_
+
+[![](https://visitcount.itsvg.in/api?id=CoderSugata&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
