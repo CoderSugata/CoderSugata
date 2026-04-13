@@ -79,15 +79,26 @@
 
 <div align="center">
 
-  [![Python Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=PythonAssignments&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/PythonAssignments)
-  [![ML Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=MachineLearningAssignments&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/MachineLearningAssignments)
+  [![Python Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=PythonAssignments&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/PythonAssignments)
+  [![ML Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=MachineLearningAssignments&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/MachineLearningAssignments)
   
-  [![Stats Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=StatisticsAssignments&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/StatisticsAssignments)
-  [![DSA with Java](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=DSAwithJava&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/DSAwithJava)
+  [![Stats Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=StatisticsAssignments&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/StatisticsAssignments)
+  [![DSA with Java](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=DSAwithJava&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/DSAwithJava)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderSugata&theme=radical&hide_border=false&count_private=true&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata)
+
+  <br>
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=CoderSugata&theme=radical&hide_border=false&background=0D1117&border_radius=10)
+
+</div>
 
 ### 📊 GitHub Analytics
 
