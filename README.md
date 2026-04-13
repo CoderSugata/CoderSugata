@@ -24,10 +24,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  NAME      →  Sugata                                            ║
-║  ROLE      →  Aspiring Data Analyst                             ║
-║  STATUS    →  Currently learning Machine Learning               ║
-║  STACK     →  Python · SQL · Power BI · Tableau · Jupyter       ║
+║  NAME      →  Sugata                                             ║
+║  ROLE      →  Aspiring Data Analyst                              ║
+║  STATUS    →  Currently learning Machine Learning                ║
+║  STACK     →  Python · SQL · Power BI · Tableau · Jupyter        ║
 ║  MINDSET   →  "I like to help people, but not a people-pleaser." ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
