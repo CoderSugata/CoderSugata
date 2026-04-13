@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              SUGATA | GITHUB PROFILE README                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <!-- Animated Header - Colorful Slice style -->
@@ -48,9 +44,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/◉_Email-your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◉_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/◉_GitHub-CoderSugata-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/CoderSugata)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderSugata)
 
 </div>
 
@@ -62,27 +58,27 @@
 
 **[ Data & Analytics ]**
 
-![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-★★★★☆-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-★★★☆☆-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-★★★☆☆-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-★★★★☆-8E44AD?style=flat-square&logo=wolfram&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=flat-square&logo=wolfram&logoColor=white)
 
 **[ Visualization ]**
 
-![Power BI](https://img.shields.io/badge/Power_BI-★★★★☆-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-★★★☆☆-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-★★★★☆-11557C?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-★★★★☆-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 **[ Dev & Tools ]**
 
-![Java](https://img.shields.io/badge/Java-★★★☆☆-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★☆☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-★★★☆☆-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-★★★★☆-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★☆☆-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </div>
 
@@ -115,19 +111,8 @@
 
 ---
 
-## `~/trophies`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CoderSugata&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
-```
-[ currently_learning ]  ──▶  Machine Learning  ──▶  Deep Learning  ──▶  ???
-```
 
 *If something I built helped you — a ⭐ makes my day!*
 
