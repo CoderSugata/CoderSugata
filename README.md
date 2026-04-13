@@ -6,7 +6,7 @@
 
   <h1>Hi there, I'm Sugata! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  **`📈 Data Analyst` | `🐍 Python` | `📊 Power BI & Tableau` | `🔍 SQL` | `🧠 Machine Learning`**
+  **`📈 Aspiring Data Analyst` | `🐍 Python` | `📊 Power BI & Tableau` | `🔍 SQL` | `🧠 Machine Learning`**
   
   <br>
   
@@ -77,34 +77,14 @@
 
 ### 📂 Featured Projects
 
-<!-- Dynamic Project Cards using GitHub Readme Stats API -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/CoderSugata/PythonAssignments">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=CoderSugata&repo=PythonAssignments&theme=radical&bg_color=0D1117&border_radius=10" alt="Python Assignments"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/CoderSugata/MachineLearningAssignments">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=CoderSugata&repo=MachineLearningAssignments&theme=radical&bg_color=0D1117&border_radius=10" alt="ML Assignments"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/CoderSugata/StatisticsAssignments">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=CoderSugata&repo=StatisticsAssignments&theme=radical&bg_color=0D1117&border_radius=10" alt="Stats Assignments"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/CoderSugata/DSAwithJava">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=CoderSugata&repo=DSAwithJava&theme=radical&bg_color=0D1117&border_radius=10" alt="DSA with Java"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+  [![Python Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=PythonAssignments&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/PythonAssignments)
+  [![ML Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=MachineLearningAssignments&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/MachineLearningAssignments)
+  
+  [![Stats Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=StatisticsAssignments&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/StatisticsAssignments)
+  [![DSA with Java](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=DSAwithJava&theme=radical&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata/DSAwithJava)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -112,17 +92,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=CoderSugata&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats"/>
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSugata&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&border_radius=10" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com/?user=CoderSugata&theme=radical&hide_border=false&background=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderSugata&theme=radical&hide_border=false&count_private=true&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata)
+
+  <br>
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=CoderSugata&theme=radical&hide_border=false&background=0D1117&border_radius=10)
+
 </div>
 
 <br>
