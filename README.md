@@ -5,18 +5,17 @@
 <div align="center">
 
 <!-- Animated Header - Colorful Slice style -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sugata&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=-5&desc=Data%20%E2%86%92%20Insight%20%E2%86%92%20Impact&descSize=16&descFontColor=aaaaff&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sugata&nbsp;Mondal&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=-0&desc=Data%20%E2%86%92%20Insight%20%E2%86%92%20Impact&descSize=16&descFontColor=aaaaff&descAlignY=70" width="100%"/>
 
 <br/>
 
 <!-- Dynamic quote-style tagline -->
 ```
- ◈  data analyst in progress  ·  python  ·  sql  ·  ml  ·  power bi  ◈
+ ◈  Data Analyst  ·  Python  ·  SQL  ·  ML  ·  Power BI  ·  Excel  ◈
 ```
 
 <!-- Badges Row -->
 <img src="https://img.shields.io/badge/%E2%80%8B-Open%20to%20Opportunities-4CAF50?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/%E2%80%8B-Learning%20ML-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=7C3AED&style=flat-square&label=visitors"/>
 
 </div>
