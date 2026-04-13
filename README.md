@@ -1,117 +1,123 @@
-<img width="100%" alt="header" src="https://github.com/user-attachments/assets/3c7b62d8-c6eb-4af6-aa28-ae4289899d6d" />
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+&+Sharing+Code;🔗+Let's+Connect+and+Grow+Together!" alt="Typing SVG" />
-
-  <h1>Hi there, I'm Sugata! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  
-  **`📈 Aspiring Data Analyst` | `🐍 Python` | `📊 Power BI & Tableau` | `🔍 SQL` | `🧠 Machine Learning`**
-  
-  <br>
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  
-  <br><br>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 💡 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>👋 Aspiring <strong>Data Analyst</strong> passionate about uncovering hidden patterns in data and telling compelling stories.</li>
-        <li>✅ Recently mastered <strong>Python for Data Analytics</strong> and advanced <strong>Statistics</strong>.</li>
-        <li>🤖 Currently diving deep into the world of <strong>Machine Learning</strong> (Supervised & Unsupervised algorithms).</li>
-        <li>🛠️ Tools I use: <strong>Jupyter Notebook</strong>, <strong>GitHub</strong>, <strong>MySQL</strong>, <strong>Power BI</strong>.</li>
-        <li>⚡ Fun Fact: <i>"I like to help people, but I'm not a people-pleaser."</i></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h3>Let's Connect! 🤝</h3>
-      <!-- REPLACE THE LINKS BELOW WITH YOUR ACTUAL PROFILE LINKS -->
-      <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><br>
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
-      <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  
-  **Data Analysis & Machine Learning**<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
-  
-  <br><br>
-  
-  **Data Visualization & Databases**<br>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <br><br>
-  
-  **Software Development & Tools**<br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📂 Featured Projects
-
 <div align="center">
 
-  [![Python Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=PythonAssignments&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/PythonAssignments)
-  [![ML Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=MachineLearningAssignments&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/MachineLearningAssignments)
-  
-  [![Stats Assignments](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=StatisticsAssignments&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/StatisticsAssignments)
-  [![DSA with Java](https://github-readme-stats.vercel.app/api/pin/?username=CoderSugata&repo=DSAwithJava&theme=radical&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata/DSAwithJava)
+<!-- Animated Banner using capsule-render - very reliable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sugata&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=👩‍💻+Turning+Raw+Data+into+Powerful+Insights;🐍+Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;🤖+Exploring+Machine+Learning+Algorithms;📊+Visualizing+Stories+Hidden+in+Data;🚀+Building+Projects+%26+Growing+Every+Day" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/CoderSugata">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=CoderSugata&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-### 📊 GitHub Analytics
+<br/>
+
+---
+
+## 💡 About Me
+
+```python
+sugata = {
+    "role"      : "Aspiring Data Analyst",
+    "learning"  : ["Machine Learning", "Deep Learning", "Advanced Statistics"],
+    "tools"     : ["Python", "SQL", "Power BI", "Tableau", "Jupyter Notebook"],
+    "databases" : ["MySQL"],
+    "interests" : ["Data Storytelling", "Predictive Modeling", "Data Visualization"],
+    "fun_fact"  : "I like to help people, but I'm not a people-pleaser 😄"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderSugata&theme=radical&hide_border=false&count_private=true&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&border_radius=10&cache_seconds=86400)](https://github.com/CoderSugata)
+### 🔬 Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-  <br>
+### 📊 BI & Databases
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=CoderSugata&theme=radical&hide_border=false&background=0D1117&border_radius=10)
+### 🧰 Dev Tools
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-### 📊 GitHub Analytics
+---
+
+## 📂 Featured Projects
 
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderSugata&theme=radical&hide_border=false&count_private=true&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&theme=radical&hide_border=false&layout=compact&bg_color=0D1117&border_radius=10)](https://github.com/CoderSugata)
-
-  <br>
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=CoderSugata&theme=radical&hide_border=false&background=0D1117&border_radius=10)
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🐍 Python Assignments](https://github.com/CoderSugata/PythonAssignments) | Core Python concepts, data structures & problem solving | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [🤖 ML Assignments](https://github.com/CoderSugata/MachineLearningAssignments) | Supervised & Unsupervised ML algorithm implementations | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| [📊 Stats Assignments](https://github.com/CoderSugata/StatisticsAssignments) | Statistical analysis, hypothesis testing & probability | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [☕ DSA with Java](https://github.com/CoderSugata/DSAwithJava) | Data Structures & Algorithms implemented in Java | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) |
 
 </div>
 
-<br>
-<p align="center"><i>Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you like them!</i></p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Using streak-stats which is confirmed working -->
+<img src="https://streak-stats.demolab.com/?user=CoderSugata&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Using github-readme-activity-graph - a reliable alternative -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderSugata&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<!-- github-profile-trophy is very reliable -->
+<img src="https://github-profile-trophy.vercel.app/?username=CoderSugata&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*⭐ Thanks for visiting! If you find my work useful, consider leaving a star on my repositories!*
+
+</div>
