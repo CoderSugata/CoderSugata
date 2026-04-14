@@ -2,31 +2,15 @@
 
 <!-- Animated Typing Intro -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+I'm+Sugata+Mondal+👋;Aspiring+Data+Analyst+📊;Turning+Data+into+Insights+🚀;Always+Learning+New+Things+🧠" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+I'm+Sugata+Mondal+👋;Data+Analyst+📊;Turning+Data+into+Insights+🚀;Always+Learning+New+Things+🧠" />
 
 <br/>
-
-<!-- Header Banner -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sugata%20Mondal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20→%20Insight%20→%20Impact&descAlignY=55&descSize=18"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=CoderSugata&color=7C3AED&style=flat-square&label=👀+Profile+Views"/>
 
 </div>
 
 ---
 
 ## 🧠 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=AAAAFF&center=true&vCenter=true&width=600&lines=Name:+Sugata+Mondal;Aspiring+Data+Analyst+📊;Turning+Data+into+Insights+🚀;Learning+Machine+Learning+🤖;Loves+Solving+Real+Problems+🧠" />
-
-</div>
-
-<br/>
 
 <div align="left">
 
@@ -38,17 +22,6 @@
 </div>
 
 ---
-
-## 🚀 What Makes Me Different
-
-<div align="left">
-
-✨ I focus on **impact, not just analysis**  
-✨ I simplify complex data into **clear insights**  
-✨ I build **practical, real-world projects**  
-✨ I believe data is a **story waiting to be told**
-
-</div>
 
 ## 🧠 Skills
 
@@ -143,5 +116,13 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
+
+<div align="center">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=CoderSugata&color=7C3AED&style=flat-square&label=👀+Profile+Views"/>
 
 </div>
