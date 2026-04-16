@@ -10,6 +10,18 @@
 
 ---
 
+<div align="center">
+
+# 🌟 Check My Portfolio  🌟
+
+<a href="https://codersugata.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-F54927?style=for-the-badge&logo=github" alt="Visit Portfolio">
+</a>
+
+</div>
+
+---
+
 ## 🧠 About Me
 
 <div align="left">
