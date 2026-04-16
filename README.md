@@ -4,11 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+I'm+Sugata+Mondal+👋;Data+Analyst+📊;Turning+Data+into+Insights+🚀;Always+Learning+New+Things+🧠" />
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
-
----
 
 <div align="center">
 
@@ -115,12 +113,13 @@
 
 <div align="center">
 
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sugatamondal/)
-[![💻 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CoderSugata)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-F54927?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codersugata.netlify.app/)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugatamondal/)
+[![💻 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderSugata)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
