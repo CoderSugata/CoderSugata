@@ -28,7 +28,7 @@
 📊 I build dashboards that **tell stories, not just numbers**  
 🤖 Currently learning **Machine Learning (ML)** step-by-step  
 📐 Strong focus on **Statistics for real-world decisions**  
-🎓 **M.Sc. & B.Sc(Hons.)** in Computer Science, with strong fundamentals in core Computer Science concepts.
+🎓 **M.Sc. & B.Sc(Hons.)** in Computer Science, with strong fundamentals in core Computer Science.
 
 </div>
 
