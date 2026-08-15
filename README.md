@@ -116,14 +116,14 @@
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-F54927?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codersugata.netlify.app/)
 [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugatamondal/)
-[![💻 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderSugata)
+[![𝕏 X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CoderSugata)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-
+  
 ### ⭐ If you like my work, consider giving a star — it motivates me!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=AAAAFF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!+💜;Keep+Learning+Keep+Building+🚀" />
