@@ -88,7 +88,6 @@
 | [**Crypto Volatility Prediction**](https://github.com/CoderSugata/Cryptocurrency-Volatility-Prediction-Project) | Predicting crypto price volatility using time-series analysis and ML models | Python, Pandas, Scikit-learn |
 | [**Olympic Medal Analysis**](https://github.com/CoderSugata/Analysis-of-Olympic-Medal-Trends) | Exploratory data analysis of Olympic medal distributions and country performance trends | Python, Pandas, Matplotlib |
 | [**Supply Chain Analytics**](https://github.com/CoderSugata/Supply-Chain-Performance-Analytics) | Analyzing supply chain KPIs to identify inefficiencies and optimize operations | Python, SQL, Power BI |
-| [**Creators Tools**](https://github.com/CoderSugata/CreatorsTools) | Utility toolkit for content creators with automation and productivity features | Html, CSS, Javascript |
 
 ---
 
